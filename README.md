@@ -3,4 +3,5 @@ Depedencies:
 Python,
 playerctl,
 dbus-python,
-requests python module
+requests python module,
+awesome fonts for glyphs
